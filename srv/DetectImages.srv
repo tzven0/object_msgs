@@ -1,0 +1,3 @@
+sensor_msgs/Image[] images      # sensor_msgs/Image array for inference
+---
+ObjectsInBoxes[] objects  # bounding box list for each of inferred images
